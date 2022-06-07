@@ -1,6 +1,6 @@
 # store_app
 
-A new Flutter project.
+A new Flutter project thats sell some materials by displaying their name , image , price and some information about them.
 
 ## Getting Started
 
