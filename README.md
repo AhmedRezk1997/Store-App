@@ -2,15 +2,7 @@
 
 A new Flutter project thats sell some materials by displaying their name , image , price and some information about them.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src ="
+https://user-images.githubusercontent.com/106794778/173155223-ba8a3dc3-1c47-4df4-b336-81df8e5403e9.jpg" width="400">
+</p>
